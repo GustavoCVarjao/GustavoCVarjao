@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @GustavoCVarjao
+- 🌱 I’m currently learning JavaScript
