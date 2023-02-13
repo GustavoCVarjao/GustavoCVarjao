@@ -1,9 +1,9 @@
-## Tech:
-![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
 ## About me:
 - 👋 Hi, I’m Gustavo Carvalho Varjão
 - 🌱 I’m currently learning JavaScript
+
+## Tech:
+![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GustavoVarjao&hide=TeX&layout=compact)
 ## Contact:
